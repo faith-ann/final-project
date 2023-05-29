@@ -1,6 +1,6 @@
-#nav{
-    color: black;
-
+.nav{
+   position: sticky;
+   top: 0;
 }
 
 #nav:hover{
